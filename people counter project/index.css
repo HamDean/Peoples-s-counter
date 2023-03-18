@@ -1,0 +1,59 @@
+body {
+    background-image: url("https://images.unsplash.com/uploads/1413387158190559d80f7/6108b580?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80");
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    font-family: 'Happy Monkey', cursive;
+    font-weight: bold;
+    text-align: center;
+    box-sizing: border-box;
+    color: #edf2f4;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#main {
+    max-width: 100%;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: #403d39;
+}
+
+#save-btn {
+    background: #001524;
+}
+
+#save-el {
+    font-size: larger;
+    font-weight: bolder;
+    font-size: 26px;
+}
+
+
+
